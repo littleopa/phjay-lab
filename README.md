@@ -5,8 +5,8 @@ and I build and fix the pieces I need along the way.
 
 #### 🛠️ Projects
 
-- **[ha-yuvomi](https://github.com/Phillipxh/ha-yuvomi)**: the self-hosted family planner [Yuvomi](https://github.com/ulsklyc/yuvomi) as a Home Assistant app, with a sidebar panel, sign-in with Home Assistant users and Home Assistant backups.
-- **[littleopa-qr](https://github.com/Phillipxh/littleopa-qr)**: a QR code generator for links, contacts, Wi-Fi, events and payments, with live preview.
+- **[ha-yuvomi](https://github.com/phjay-lab/ha-yuvomi)**: the self-hosted family planner [Yuvomi](https://github.com/ulsklyc/yuvomi) as a Home Assistant app, with a sidebar panel, sign-in with Home Assistant users and Home Assistant backups.
+- **[littleopa-qr](https://github.com/phjay-lab/littleopa-qr)**: a QR code generator for links, contacts, Wi-Fi, events and payments, with live preview.
 
 #### 🤝 Contributions
 
